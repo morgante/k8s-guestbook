@@ -1,4 +1,8 @@
-## Building and releasing Guestbook Image
+## Guestbook Example
+
+This is a showcase application taken from the [Kubernetes codebase](https://github.com/kubernetes/kubernetes/tree/master/examples/guestbook-go).
+
+### Building and releasing Guestbook Image
 
 This process employs building two docker images, one compiles the source and the other hosts the compiled binaries.
 
